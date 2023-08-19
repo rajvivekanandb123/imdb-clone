@@ -3,9 +3,8 @@
 This is a Mini IMDB clone created using HTML, CSS,Tailwind and vanilla JavaScript. The IMDB has basic functionality to Search, Add to favourite, Remove from favourite/Watchlist, Menu .
 
 
-## Demo
-You can see a live demo here: https://tanishthorat.github.io/imdb-clone-/
-
+## Demohttps:
+You can see a live demo here:https://rajvivekanandb123.github.io/imdb-clone/
 
 ## Deployment/ Installation
 
