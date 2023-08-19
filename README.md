@@ -13,7 +13,7 @@ You can see a live demo here:  https://rajvivekanandb123.github.io/imdb-clone/
 To install the IMDB, simply download or clone the repository to your local machine:
 
 ```bash
-  git clone https://tanish02.github.io/imdb-clone-/
+  git clone https://github.com/rajvivekanandb123/imdb-clone.git
 
 ```
 
