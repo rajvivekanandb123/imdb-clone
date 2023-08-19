@@ -54,7 +54,7 @@ Search any movie from the API and display the search results on the frontend
 
 ## Authors
 
-- [@Tanish02](https://github.com/Tanish02)
+- rajvivekanand
 
 
 ## 🚀 About Me
